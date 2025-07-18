@@ -26,3 +26,16 @@ A simple React app to dynamically change the background color of the entire scre
 
 ```bash
 git clone https://github.com/Prat260104/bg-color-changer.git
+```
+
+2.Install dependencies:
+
+```bash
+npm i
+```
+
+3.Start the server:
+
+```bash
+npm run dev
+```
